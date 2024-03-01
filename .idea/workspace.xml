@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="45f714e9-a5e6-4dfe-a020-1c576808a4b9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Accurance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Againsotzeroandone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayMaxRecursion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayRecursion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArraySort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arraylist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ElementIndicesinArrayRecursion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Factorialbyrecursion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FibonaccibyRecursion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FindarrayElementrecursion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FirstReapet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FrogJump.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GeneratesSpiral.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Greater.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ImplaceArrayReverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/KeyPadCombination.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LastAccuramce.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Manipulate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PairSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PascleTringleWithJaggedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PrefixArrayWithoutOtherArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PrefixSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PrefixSum2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PrintMultiplebyRecursion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PrintSubsequences.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProblemsInArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Querry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Rangequery.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RectengleSumInTwoDMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RecursiveDecreaseNaturalNumberPrint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReturnArraylistofAllIndicesRecursion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReturnSubsequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReverseArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReverseStringUsingRecursion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RotateArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Rotatematrixnintydegree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SelectionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SortAnArrayEvenAndOdd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SortArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SortSquere.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SpiralMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SrcondMax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringOccuranceRemoveAsRecursion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringPallindrawnWithoutUsingReverseFunction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringPallindrwanUsingRecursion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SubsetSumString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SumArrayRecursion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sumofprefixandsuffix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SumoftwodArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sumseries.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Swap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TransposeMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Triplet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TwodArrayInitilization.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Twodimensionalmatrxmultiplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Withoutswap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gcd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sumofdidgitsusingrecursion.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2bTnyFDVamWXWfBOSpi56jJRi0C" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/hp/java/Array5/src/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="45f714e9-a5e6-4dfe-a020-1c576808a4b9" name="Changes" comment="" />
+      <created>1706248189238</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1706248189238</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/BubbleSort.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
